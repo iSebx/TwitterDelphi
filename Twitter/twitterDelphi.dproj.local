@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/06 17:08:20.000.526,=C:\Users\sliotta\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/06 17:30:19.000.320,C:\Users\sliotta\Documents\Seb\Proyect\Twitter\uInitSesion.pas=C:\Users\sliotta\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/06 17:30:19.000.320,C:\Users\sliotta\Documents\Seb\Proyect\Twitter\uInitSesion.dfm=C:\Users\sliotta\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/05/06 17:30:26.000.744,C:\Users\sliotta\Documents\Seb\Proyect\Twitter\twitterDelphi.dproj=C:\Users\sliotta\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2019/05/06 17:31:02.000.448,=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\Unit1.pas</Transaction>
+    <Transaction>2019/05/06 17:33:34.000.984,C:\Users\sliotta\Documents\Seb\Proyect\Twitter\uTimeLine.pas=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\Unit1.pas</Transaction>
+    <Transaction>2019/05/06 17:33:34.000.984,C:\Users\sliotta\Documents\Seb\Proyect\Twitter\uTimeLine.dfm=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\Unit1.dfm</Transaction>
+    <Transaction>2019/05/07 08:50:04.000.582,=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\units\UDatos.pas</Transaction>
+    <Transaction>2019/05/07 08:50:04.000.548,=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\units\MsjPanel.pas</Transaction>
+    <Transaction>2019/05/07 08:50:04.000.565,=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\units\UConnection.pas</Transaction>
+    <Transaction>2019/05/07 11:24:50.000.507,=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 11:25:54.000.219,C:\Users\sliotta\Documents\Seb\Proyect\Twitter\uFrmAddFollow.pas=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 11:25:54.000.219,C:\Users\sliotta\Documents\Seb\Proyect\Twitter\uFrmAddFollow.dfm=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\Unit1.dfm</Transaction>
+    <Transaction>2019/05/08 14:40:51.000.283,=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 14:56:09.000.330,C:\Users\sliotta\Documents\Seb\Proyect\Twitter\uFrmAddContact.pas=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 14:56:09.000.330,C:\Users\sliotta\Documents\Seb\Proyect\Twitter\uFrmAddContact.dfm=C:\Users\sliotta\Documents\Seb\Proyect\Twitter\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
